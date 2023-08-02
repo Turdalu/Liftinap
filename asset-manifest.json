@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Liftinap/static/css/main.073c9b0a.css",
+    "main.js": "/Liftinap/static/js/main.3a2e9d25.js",
+    "index.html": "/Liftinap/index.html",
+    "main.073c9b0a.css.map": "/Liftinap/static/css/main.073c9b0a.css.map",
+    "main.3a2e9d25.js.map": "/Liftinap/static/js/main.3a2e9d25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3a2e9d25.js"
+  ]
+}
